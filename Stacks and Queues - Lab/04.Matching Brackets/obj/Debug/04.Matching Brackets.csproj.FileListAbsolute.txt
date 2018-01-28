@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\bin\Debug\04.Matching Brackets.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\bin\Debug\04.Matching Brackets.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\bin\Debug\04.Matching Brackets.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\obj\Debug\04.Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\obj\Debug\04.Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\obj\Debug\04.Matching Brackets.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\04.Matching Brackets\obj\Debug\04.Matching Brackets.pdb

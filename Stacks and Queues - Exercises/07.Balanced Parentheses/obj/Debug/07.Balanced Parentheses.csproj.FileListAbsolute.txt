@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.pdb

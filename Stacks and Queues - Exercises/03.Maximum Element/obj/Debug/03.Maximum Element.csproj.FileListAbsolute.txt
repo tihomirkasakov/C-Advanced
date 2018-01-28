@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\bin\Debug\03.Maximum Element.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\bin\Debug\03.Maximum Element.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\bin\Debug\03.Maximum Element.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\obj\Debug\03.Maximum Element.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\obj\Debug\03.Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\obj\Debug\03.Maximum Element.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\03.Maximum Element\obj\Debug\03.Maximum Element.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\bin\Debug\06.Truck Tour.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\bin\Debug\06.Truck Tour.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\bin\Debug\06.Truck Tour.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\obj\Debug\06.Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\obj\Debug\06.Truck Tour.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\obj\Debug\06.Truck Tour.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\06.Truck Tour\obj\Debug\06.Truck Tour.csprojResolveAssemblyReference.cache

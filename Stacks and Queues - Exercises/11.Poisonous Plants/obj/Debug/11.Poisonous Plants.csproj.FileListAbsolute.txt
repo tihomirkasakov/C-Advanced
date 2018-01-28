@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\bin\Debug\11.Poisonous Plants.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\bin\Debug\11.Poisonous Plants.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\bin\Debug\11.Poisonous Plants.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\11.Poisonous Plants\obj\Debug\11.Poisonous Plants.pdb

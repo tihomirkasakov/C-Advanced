@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\bin\Debug\Reverse Strings.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\Reverse Strings\obj\Debug\Reverse Strings.pdb

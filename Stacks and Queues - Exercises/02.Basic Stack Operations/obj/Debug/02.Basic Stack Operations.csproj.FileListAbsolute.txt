@@ -1,0 +1,6 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\02.Basic Stack Operations\bin\Debug\02.Basic Stack Operations.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\02.Basic Stack Operations\bin\Debug\02.Basic Stack Operations.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\02.Basic Stack Operations\bin\Debug\02.Basic Stack Operations.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\02.Basic Stack Operations\obj\Debug\02.Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\02.Basic Stack Operations\obj\Debug\02.Basic Stack Operations.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\02.Basic Stack Operations\obj\Debug\02.Basic Stack Operations.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\bin\Debug\03.Decimal to Binary Converter.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\bin\Debug\03.Decimal to Binary Converter.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\bin\Debug\03.Decimal to Binary Converter.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\obj\Debug\03.Decimal to Binary Converter.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\obj\Debug\03.Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\obj\Debug\03.Decimal to Binary Converter.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\03.Decimal to Binary Converter\obj\Debug\03.Decimal to Binary Converter.pdb

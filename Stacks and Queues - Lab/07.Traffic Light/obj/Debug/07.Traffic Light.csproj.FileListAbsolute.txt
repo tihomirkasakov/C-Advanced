@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\bin\Debug\07.Traffic Light.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\bin\Debug\07.Traffic Light.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\bin\Debug\07.Traffic Light.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\obj\Debug\07.Traffic Light.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\obj\Debug\07.Traffic Light.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\obj\Debug\07.Traffic Light.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\07.Traffic Light\obj\Debug\07.Traffic Light.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\bin\Debug\09.Stack Fibonacci.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\bin\Debug\09.Stack Fibonacci.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\bin\Debug\09.Stack Fibonacci.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\09.Stack Fibonacci\obj\Debug\09.Stack Fibonacci.pdb

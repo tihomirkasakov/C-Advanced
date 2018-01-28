@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\bin\Debug\06.Math Potato.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\bin\Debug\06.Math Potato.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\bin\Debug\06.Math Potato.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\obj\Debug\06.Math Potato.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\obj\Debug\06.Math Potato.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\obj\Debug\06.Math Potato.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\06.Math Potato\obj\Debug\06.Math Potato.pdb

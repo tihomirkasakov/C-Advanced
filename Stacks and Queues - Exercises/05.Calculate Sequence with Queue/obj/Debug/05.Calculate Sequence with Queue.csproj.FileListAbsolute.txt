@@ -1,0 +1,6 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\05.Calculate Sequence with Queue\bin\Debug\05.Calculate Sequence with Queue.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\05.Calculate Sequence with Queue\bin\Debug\05.Calculate Sequence with Queue.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\05.Calculate Sequence with Queue\bin\Debug\05.Calculate Sequence with Queue.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\05.Calculate Sequence with Queue\obj\Debug\05.Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\05.Calculate Sequence with Queue\obj\Debug\05.Calculate Sequence with Queue.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Exercises\05.Calculate Sequence with Queue\obj\Debug\05.Calculate Sequence with Queue.pdb

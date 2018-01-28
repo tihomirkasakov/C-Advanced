@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\bin\Debug\05.Hot Potato.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\bin\Debug\05.Hot Potato.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\bin\Debug\05.Hot Potato.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\obj\Debug\05.Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\obj\Debug\05.Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\obj\Debug\05.Hot Potato.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\05.Hot Potato\obj\Debug\05.Hot Potato.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\bin\Debug\02.Simple Calculator.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\bin\Debug\02.Simple Calculator.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\bin\Debug\02.Simple Calculator.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\obj\Debug\02.Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\obj\Debug\02.Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\obj\Debug\02.Simple Calculator.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Stacks and Queues - Lab\02.Simple Calculator\obj\Debug\02.Simple Calculator.pdb
