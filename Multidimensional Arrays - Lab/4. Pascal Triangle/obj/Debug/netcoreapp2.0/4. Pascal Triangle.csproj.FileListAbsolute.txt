@@ -1,0 +1,11 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.deps.json
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.runtimeconfig.json
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.dll
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.dll
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Multidimensional Arrays - Lab\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.pdb
